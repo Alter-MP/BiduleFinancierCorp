@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CardWidget.App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CardWidget.App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
