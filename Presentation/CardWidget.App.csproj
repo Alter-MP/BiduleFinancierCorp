@@ -42,8 +42,8 @@
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="2.4.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Application\CardWidget.Application\CardWidget.Application.csproj" />
-    <ProjectReference Include="..\..\Infrastructure\CardWidget.Infrastructure\CardWidget.Infrastructure.csproj" />
+    <ProjectReference Include="..\Application\CardWidget.Application.csproj" />
+    <ProjectReference Include="..\Infrastructure\CardWidget.Infrastructure.csproj" />
   </ItemGroup>
 
   <!--

@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Domain\CardWidget.Domain\CardWidget.Domain.csproj" />
+    <ProjectReference Include="..\Domain\CardWidget.Domain.csproj" />
   </ItemGroup>
 
 </Project>

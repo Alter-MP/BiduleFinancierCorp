@@ -5,19 +5,19 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/Application/">
-    <Project Path="Application/CardWidget.Application/CardWidget.Application.csproj" />
+    <Project Path="Application/CardWidget.Application.csproj" />
   </Folder>
   <Folder Name="/Domain/">
-    <Project Path="Domain/CardWidget.Domain/CardWidget.Domain.csproj" />
+    <Project Path="Domain/CardWidget.Domain.csproj" />
   </Folder>
   <Folder Name="/Infrastructure/">
-    <Project Path="Infrastructure/CardWidget.Infrastructure/CardWidget.Infrastructure.csproj" />
+    <Project Path="Infrastructure/CardWidget.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/Tests/" />
   <Folder Name="/Tests/UnitTests/">
-    <Project Path="Tests/UnitTests/CardWidget.Domain.Tests/CardWidget.Domain.Tests.csproj" />
+    <Project Path="Tests/UnitTests/CardWidget.Domain.Tests.csproj" />
   </Folder>
-  <Project Path="Presentation/CardWidget.App/CardWidget.App.csproj">
+  <Project Path="Presentation/CardWidget.App.csproj">
     <Platform Solution="*|ARM64" Project="ARM64" />
     <Platform Solution="*|x64" Project="x64" />
     <Platform Solution="*|x86" Project="x86" />
